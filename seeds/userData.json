@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Taylor Swift",
+      "email": "Swiftyswift@gmail.com",
+      "password": "password123"
+    },
+    {
+      "name": "Travis Kelce",
+      "email": "SuperbowlChamp@yahoo.com",
+      "password": "password87"
+    },
+    {
+      "name": "Ted Lasso",
+      "email": "believe@richmond.edu",
+      "password": "password12345"
+    }
+  ]
