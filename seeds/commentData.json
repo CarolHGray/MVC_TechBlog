@@ -1,0 +1,38 @@
+[
+    {
+      "comment_body": "Who are you going to believe, NASA scientists?",
+      "date_created": "January 13, 2024",
+      "user_id": 2,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "It's not my problem",
+      "date_created": "February 2, 2024",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "We have lots of room for solar",
+      "date_created": "February 18, 2024",
+      "user_id": 3,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "Super bowl picks?",
+      "date_created": "February 18, 2024",
+      "user_id": 1,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "Next topic...",
+      "date_created": "March 28, 2024",
+      "user_id": 2,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "Oh no, tax day is almost here",
+      "date_created": "March 30, 2024",
+      "user_id": 1,
+      "blogPost_id": 3
+    }
+  ]
